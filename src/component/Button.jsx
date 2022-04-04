@@ -15,5 +15,3 @@ const StyledButton = styled.button`
   border-radius: 2rem;
   cursor: pointer;
 `;
-© 2022 GitHub, Inc.
-Term
